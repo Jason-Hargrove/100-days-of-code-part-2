@@ -7,6 +7,7 @@
 **Thoughts:** Second time doing 100 Days of Code. Since moving, I've picked up some bad habits I want to rectify. Been wanting to make a real store form scratch for over a year - finally decide to jump in.
 
 **Link to work:** [ecommerce](https://github.com/Jason-Hargrove/ecommerce.git)
+
 **Link to current website** [Jason Hargrove Art](http://www.jasonhargroveart.com/)
 
 # Links
