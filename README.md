@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 2: March 27, 2022
+
+**Today's Progress:** Added styled-components. Worked on navbar. Added Matarial-UI icons.
+
+**Thoughts:** Had some difficuilty switching MUI to styled-components instead of emotion. Uising yarn our of cruiosity. 
+
+**Link to work:** [ecommerce](https://github.com/Jason-Hargrove/ecommerce.git)
+
 ### Day 1: March 26, 2022
 
 **Today's Progress:** Created a React app and repository. My intent is to migrate my ecommerce art gallery on Squarespace to a custom MERN app.
@@ -8,7 +16,7 @@
 
 **Link to work:** [ecommerce](https://github.com/Jason-Hargrove/ecommerce.git)
 
-**Link to current website** [Jason Hargrove Art](http://www.jasonhargroveart.com/)
+**Link to current website:** [Jason Hargrove Art](http://www.jasonhargroveart.com/)
 
 # Links
 
