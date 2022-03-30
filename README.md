@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 4: March 29, 2022
+
+**Today's Progress:** React Testing Library fireEvent. Gallery page: Finished initial creation of navbar component.
+
+**Thoughts:** I want to get better at writing tests.
+
+**Link to work:** [ecommerce](https://github.com/Jason-Hargrove/ecommerce.git)
+
 ### Day 3: March 28, 2022
 
 **Today's Progress:** MongoDB University: inserting new documents, inserting multiple documents using .insert(). E-commerce gallery: used Flexbox and styled nav bar.
