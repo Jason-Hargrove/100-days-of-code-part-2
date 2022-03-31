@@ -1,8 +1,16 @@
 # 100 Days Of Code - logs
 
+### Day 5: March 30, 2022
+
+**Today's Progress:** E-commerce gallery: Announcement component created and Slider component started.
+
+**Thoughts:** Got further than expected.
+
+**Link to work:** [ecommerce](https://github.com/Jason-Hargrove/ecommerce.git)
+
 ### Day 4: March 29, 2022
 
-**Today's Progress:** React Testing Library fireEvent. Gallery page: Finished initial creation of navbar component.
+**Today's Progress:** React Testing Library fireEvent. E-commerce gallery page: Finished initial creation of navbar component.
 
 **Thoughts:** I want to get better at writing tests.
 
