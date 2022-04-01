@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 6: March 31, 2022
+
+**Today's Progress:** E-commerce gallery: Setup image container.
+
+**Thoughts:** Need to edit some images. 
+
+**Link to work:** [ecommerce](https://github.com/Jason-Hargrove/ecommerce.git)
+
 ### Day 5: March 30, 2022
 
 **Today's Progress:** E-commerce gallery: Announcement component created and Slider component started.
