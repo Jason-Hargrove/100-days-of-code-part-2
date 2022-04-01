@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 7: April 1, 2022
+
+**Today's Progress:** E-commerce gallery: Adjusted slide and image container. 
+
+**Thoughts:** Got up early for this one. 
+
+**Link to work:** [ecommerce](https://github.com/Jason-Hargrove/ecommerce.git)
+
 ### Day 6: March 31, 2022
 
 **Today's Progress:** E-commerce gallery: Setup image container.
