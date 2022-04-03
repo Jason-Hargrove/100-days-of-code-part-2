@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 8: April 2, 2022
+
+**Today's Progress:** E-commerce gallery: adjust styling.
+
+**Link to work:** [ecommerce](https://github.com/Jason-Hargrove/ecommerce.git)
+
 ### Day 7: April 1, 2022
 
 **Today's Progress:** E-commerce gallery: Adjusted slide and image container. 
