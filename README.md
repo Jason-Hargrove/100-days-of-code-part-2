@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 9: April 3, 2022
+
+**Today's Progress:** Worked on search logic. 
+
+**Thoughts:** Didn't make much progress.
+
 ### Day 8: April 2, 2022
 
 **Today's Progress:** E-commerce gallery: adjust styling.
