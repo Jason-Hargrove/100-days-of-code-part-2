@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 10: April 4, 2022
+
+**Today's Progress:** Working on bugs. Or, fixing my fixes. 
+
+**Thoughts:** When you feel great about what you did, then later realize your broke more than you fixed - a lot more. That's been my day.
+
 ### Day 9: April 3, 2022
 
 **Today's Progress:** Worked on search logic. 
