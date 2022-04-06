@@ -1,5 +1,9 @@
 # 100 Days Of Code - logs
 
+### Day 11: April 10, 2022
+
+**Today's Progress:** E-commerce gallery: Adding image, text, and general styling to the slide. 
+
 ### Day 10: April 4, 2022
 
 **Today's Progress:** Working on bugs. Or, fixing my fixes. 
