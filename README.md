@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 12: April 6, 2022
+
+**Today's Progress:** Set up for testing React components in isolation with Storybook.
+
+**Thoughts:** All new to me.
+
+**Link to work:** [testing-react-comp](https://github.com/Jason-Hargrove/testing-react-comp.git)
+
 ### Day 11: April 10, 2022
 
 **Today's Progress:** E-commerce gallery: Adding image, text, and general styling to the slide. 
