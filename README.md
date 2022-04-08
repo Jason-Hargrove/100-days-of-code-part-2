@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 13: April 7, 2022
+
+**Today's Progress:** Set up code to test.
+
+**Link to work:** [testing-react-comp](https://github.com/Jason-Hargrove/testing-react-comp.git)
+
 ### Day 12: April 6, 2022
 
 **Today's Progress:** Set up for testing React components in isolation with Storybook.
