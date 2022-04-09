@@ -1,5 +1,12 @@
 # 100 Days Of Code - logs
 
+### Day 14: April 8, 2022
+
+**Today's Progress:** Started a modal, and component testing.
+
+**Thoughts:** Nothing too crazy.
+
+
 ### Day 13: April 7, 2022
 
 **Today's Progress:** Set up code to test.
