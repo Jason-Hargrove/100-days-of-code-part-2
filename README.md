@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 15: April 9, 2022
+
+**Today's Progress:** E-commerce gallery: set up slide data a mapped over for slide. 
+
+**Thoughts:** Got a little further tonight than I thought I would.
+
+**Link to work:** [ecommerce](https://github.com/Jason-Hargrove/ecommerce.git)
+
 ### Day 14: April 8, 2022
 
 **Today's Progress:** Started a modal, and component testing.
