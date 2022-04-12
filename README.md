@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 17: April 11, 2022
+
+**Today's Progress:** Working on a modal. 
+
+**Thoughts:** Haven't made a modal in awhile.
+
 ### Day 16: April 10, 2022
 
 **Today's Progress:** E-commerce gallery: finished slides. Working on categories. 
