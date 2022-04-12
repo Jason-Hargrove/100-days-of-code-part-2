@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 16: April 10, 2022
+
+**Today's Progress:** E-commerce gallery: finished slides. Working on categories. 
+
+**Thoughts:** Still love using styled-components.
+
+**Link to work:** [ecommerce](https://github.com/Jason-Hargrove/ecommerce.git)
+
 ### Day 15: April 9, 2022
 
 **Today's Progress:** E-commerce gallery: set up slide data a mapped over for slide. 
