@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 18: April 12, 2022
+
+**Today's Progress:** E-commerce gallery: finished category styling and started on products.
+
+**Thoughts:** Nothing crazy tonight. Lots of CSS. Today has been a full day of CSS now that I think about it - love this stuff!
+
+**Link to work:** [ecommerce](https://github.com/Jason-Hargrove/ecommerce.git)
+
 ### Day 17: April 11, 2022
 
 **Today's Progress:** Working on a modal. 
