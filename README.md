@@ -1,5 +1,9 @@
 # 100 Days Of Code - logs
 
+### Day 19: April 13, 2022
+
+**Today's Progress:** Working with checkboxes in React. 
+
 ### Day 18: April 12, 2022
 
 **Today's Progress:** E-commerce gallery: finished category styling and started on products.
