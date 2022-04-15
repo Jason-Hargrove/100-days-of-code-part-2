@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 20: April 14, 2022
+
+**Today's Progress:** Working on categories. Troubleshooting npm. Started checkbox component.
+
+**Thoughts:** Got bogged down tonight troubleshooting npm. Did all of the coding this morning before work. Then, coded all day at work - that doesn't count. 
+
+**Link to work:** [ecommerce](https://github.com/Jason-Hargrove/ecommerce.git)
+
 ### Day 19: April 13, 2022
 
 **Today's Progress:** Working with checkboxes in React. 
