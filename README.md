@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 21: April 15, 2022
+
+**Today's Progress:** Created a checkbox with a select all feature using React. 
+
+**Thoughts:** Woke up early and found a tutorial on YouTube. Knocked it out before work.
+
+**Link to work:** [select-all-checkbox](https://github.com/Jason-Hargrove/select-all-checkbox.git)
+
 ### Day 20: April 14, 2022
 
 **Today's Progress:** Working on categories. Troubleshooting npm. Started checkbox component.
