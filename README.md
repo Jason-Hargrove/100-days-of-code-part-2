@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 22: April 16, 2022
+
+**Today's Progress:** Worked on styling store products and data.
+
+**Thoughts:** May code more today, but need to prep for the art fair. Want to get the commits and journal out of the way.
+
+**Link to work:** [ecommerce](https://github.com/Jason-Hargrove/ecommerce.git)
+
 ### Day 21: April 15, 2022
 
 **Today's Progress:** Created a checkbox with a select all feature using React. 
