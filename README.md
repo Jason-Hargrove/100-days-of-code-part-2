@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 23: April 167, 2022
+
+**Today's Progress:** Worked on store products.
+
+**Thoughts:** Didn't spend all the allotted time - headed to a concert in Nashville a bit earlier than expected.
+
 ### Day 22: April 16, 2022
 
 **Today's Progress:** Worked on styling store products and data.
