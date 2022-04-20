@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 24 & 25: April 18 and 19, 2022
+
+**Today's Progress:** Working on search bar, dummy data, styling, bug fixes and testing.
+
+**Thoughts:** Haven't done much personal work the past two days, but very busy coding. Forgot to journal yesterday.
+
+**Link to work:** [ecommerce](https://github.com/Jason-Hargrove/ecommerce.git)
+
 ### Day 23: April 167, 2022
 
 **Today's Progress:** Worked on store products.
