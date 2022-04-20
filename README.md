@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 26: April 20
+
+**Today's Progress:** CSS Diner.
+
+**Thoughts:** Played a CSS game this morning. 
+
+**Link to work:** [CSS Diner](https://flukeout.github.io/)
+
 ### Day 24 & 25: April 18 and 19, 2022
 
 **Today's Progress:** Working on search bar, dummy data, styling, bug fixes and testing.
