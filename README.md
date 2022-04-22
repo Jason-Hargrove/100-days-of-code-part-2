@@ -1,5 +1,14 @@
 # 100 Days Of Code - logs
 
+### Day 28: April 22, 2022
+
+**Today's Progress:** E-commerce website: finished newsletter general styling. Played CSS Diner again.
+
+**Thoughts:** Feel like I'm getting closer to solidifying a new routine.
+
+**Link to work:** [ecommerce](https://github.com/Jason-Hargrove/ecommerce.git)
+**Link to work:** [CSS Diner](https://flukeout.github.io/)
+
 ### Day 27: April 21, 2022
 
 **Today's Progress:** Finished product page, and started newsletter component for new art gallery / e-commerce website.
@@ -7,7 +16,6 @@
 **Thoughts:** Still loving styled-components. Learned an easier way (easier than how I've been doing in) to make an overlay.
 
 **Link to work:** [ecommerce](https://github.com/Jason-Hargrove/ecommerce.git)
-
 
 ### Day 26: April 20
 
