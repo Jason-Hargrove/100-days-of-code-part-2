@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 29: April 23, 2022
+
+**Today's Progress:** Played Flexbox Zombies. Made it to chapter 5.
+
+**Thoughts:** Such a fun game! I played it during class at General Assembly, but never finished it. I restart instead of picking up where I left off. 
+
+**Link to work:** [Flexbox Zombies](https://mastery.games/flexboxzombies/)
+
 ### Day 28: April 22, 2022
 
 **Today's Progress:** E-commerce website: finished newsletter general styling. Played CSS Diner again.
