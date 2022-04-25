@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 31: April 25, 2022
+
+**Today's Progress:** Played Flexbox Zombies. Finished chapter 6.
+
+**Thoughts:** Chapter 6 is as far as I got previously playing. New territory from here on out.
+
+**Link to work:** [Flexbox Zombies](https://mastery.games/flexboxzombies/)
+
 ### Day 30: April 24, 2022
 
 **Today's Progress:** E-commerce website. Reviewed the code I wrote so far.
