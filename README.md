@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 30: April 24, 2022
+
+**Today's Progress:** E-commerce websige. Reviewed the code I wrote so far.
+
+**Thoughts:** Took a little time to think about the big picture.
+
+**Link to work:** [ecommerce](https://github.com/Jason-Hargrove/ecommerce.git)
+
 ### Day 29: April 23, 2022
 
 **Today's Progress:** Played Flexbox Zombies. Made it to chapter 5.
