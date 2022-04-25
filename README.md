@@ -2,7 +2,7 @@
 
 ### Day 30: April 24, 2022
 
-**Today's Progress:** E-commerce websige. Reviewed the code I wrote so far.
+**Today's Progress:** E-commerce website. Reviewed the code I wrote so far.
 
 **Thoughts:** Took a little time to think about the big picture.
 
