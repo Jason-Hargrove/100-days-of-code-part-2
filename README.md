@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 32: April 26, 2022
+
+**Today's Progress:** E-commerce website. Worked on footer and importing social icons form Material Ui.
+
+**Thoughts:** It's coming along. 
+
+**Link to work:** [ecommerce](https://github.com/Jason-Hargrove/ecommerce.git)
+
 ### Day 31: April 25, 2022
 
 **Today's Progress:** Played Flexbox Zombies. Finished chapter 6.
