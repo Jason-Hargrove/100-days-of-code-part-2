@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 34: April 27, 2022
+
+**Today's Progress:** E-commerce website. Finished left side of footer. 
+
+**Thoughts:** I've made good headway on the site. Think I'm in a good place phase in my study list.
+
+**Link to work:** [ecommerce](https://github.com/Jason-Hargrove/ecommerce.git)
+
 ### Day 32: April 26, 2022
 
 **Today's Progress:** E-commerce website. Worked on footer and importing social icons form Material Ui.
