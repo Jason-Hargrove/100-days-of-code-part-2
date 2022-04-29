@@ -1,12 +1,18 @@
 # 100 Days Of Code - logs
 
-### Day 35: April 28, 2022
+### Day 35: April 29, 2022
+    
+**Today's Progress:** Azure role based access control and locks.
+
+**Thoughts:** Lost my free account, but I'm still able to study. 
+
+### Day 34: April 28, 2022
 
 **Today's Progress:** Testing React components on Pluralsight. Visual verification.
 
 **Thoughts:** It's difficult for me to jump back into a project(or tutorial) I started months ago, leaving off in the middle. Spent the majority of my time looking for notes - I'm guessing now, I didn't take any. Better believe I have some notes now! What was I thinking?
 
-### Day 34: April 27, 2022
+### Day 33: April 27, 2022
 
 **Today's Progress:** E-commerce website. Finished left side of footer. 
 
