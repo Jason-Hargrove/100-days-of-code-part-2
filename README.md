@@ -2,7 +2,7 @@
 
 ### Day 36: April 30, 2022
     
-**Today's Progress:** Restarted MongoDB University. Finished chapter 1, intro to Atlas and MongoDB shell.
+**Today's Progress:** Restarted MongoDB University M001. Finished chapter 1, intro to Atlas and MongoDB shell.
 
 **Thoughts:** I dropped the ball on this one. Think I was more than half way through the first time. Her we go again, chasing that certification.
 
