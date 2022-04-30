@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 36: April 30, 2022
+    
+**Today's Progress:** Restarted MongoDB University. Finished chapter 1, intro to Atlas and MongoDB shell.
+
+**Thoughts:** I dropped the ball on this one. Think I was more than half way through the first time. Her we go again, chasing that certification.
+
 ### Day 35: April 29, 2022
     
 **Today's Progress:** Azure role based access control and locks.
