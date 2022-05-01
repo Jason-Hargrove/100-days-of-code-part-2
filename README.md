@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 37: April 30, 2022
+    
+**Today's Progress:** MongoDB University M001. Finished chapter 2, importing, exporting and querying data. Tried out some VS Code themes. 
+
+**Thoughts:** Spent most of the morning studying. 
+
 ### Day 36: April 30, 2022
     
 **Today's Progress:** Restarted MongoDB University M001. Finished chapter 1, intro to Atlas and MongoDB shell.
