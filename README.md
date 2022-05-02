@@ -1,6 +1,10 @@
 # 100 Days Of Code - logs
 
-### Day 37: April 30, 2022
+### Day 38: May 2, 2022
+    
+**Today's Progress:** Deploying Azue policy and initiatives. MongoDB University M001, inserting documents using Atlas UI.
+
+### Day 37: May 1, 2022
     
 **Today's Progress:** MongoDB University M001. Finished chapter 2, importing, exporting and querying data. Tried out some VS Code themes. 
 
