@@ -1,5 +1,9 @@
 # 100 Days Of Code - logs
 
+### Day 39: May 3, 2022
+    
+**Today's Progress:** Inserted new document into a collection using Mongo Shell. Created duplicate key errors.
+
 ### Day 38: May 2, 2022
     
 **Today's Progress:** Deploying Azue policy and initiatives. MongoDB University M001, inserting documents using Atlas UI.
