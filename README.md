@@ -1,5 +1,9 @@
 # 100 Days Of Code - logs
 
+### Day 40: May 4, 2022
+    
+**Today's Progress:** MongoDB U. Inserting multiple documents into a collection using an array of documents and insert(). Order and unordered inserts. Implicit db creation. 
+
 ### Day 39: May 3, 2022
     
 **Today's Progress:** Inserted new document into a collection using Mongo Shell. Created duplicate key errors.
