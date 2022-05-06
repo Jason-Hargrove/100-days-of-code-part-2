@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 42: May 6, 2022
+    
+**Today's Progress:** Azure Advisor Security Assistance. Working with Azure Blueprints.
+
+**Thoughts:** Busy work week, and and home. Have an art demo tommrow I've bee preping for through the week, but somehow managed to squeeze in time for codeing study. Beem getting plenty of CSS at work, so I'm feeling good about prosuing MongoDB and Azue onm my 100 Days at the moment.
+
 ### Day 41: May 5, 2022
     
 **Today's Progress:** MongoDB U. Updating documents in data explorer and shell.
