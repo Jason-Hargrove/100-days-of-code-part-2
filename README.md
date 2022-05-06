@@ -1,5 +1,9 @@
 # 100 Days Of Code - logs
 
+### Day 41: May 5, 2022
+    
+**Today's Progress:** MongoDB U. Updating documents in data explorer and shell.
+
 ### Day 40: May 4, 2022
     
 **Today's Progress:** MongoDB U. Inserting multiple documents into a collection using an array of documents and insert(). Order and unordered inserts. Implicit db creation. 
