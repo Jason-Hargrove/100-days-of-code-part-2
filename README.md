@@ -1,5 +1,9 @@
 # 100 Days Of Code - logs
 
+### Day 43: May 7, 2022
+    
+**Today's Progress:** Introduction to Network Security Groups in Azure.
+
 ### Day 42: May 6, 2022
     
 **Today's Progress:** Azure Advisor Security Assistance. Working with Azure Blueprints.
