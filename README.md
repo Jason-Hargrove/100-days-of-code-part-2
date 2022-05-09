@@ -1,5 +1,9 @@
 # 100 Days Of Code - logs
 
+### Day 44: May 8, 2022
+    
+**Today's Progress:** MongoDB U. Deleting documents.
+
 ### Day 43: May 7, 2022
     
 **Today's Progress:** Introduction to Network Security Groups in Azure.
