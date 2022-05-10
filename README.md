@@ -1,5 +1,9 @@
 # 100 Days Of Code - logs
 
+### Day 45: May 9, 2022
+    
+**Today's Progress:** Azure. Working with application security groups. Got an overview of Azure firewall and DDoS.
+
 ### Day 44: May 8, 2022
     
 **Today's Progress:** MongoDB U. Deleting documents.
