@@ -1,5 +1,9 @@
 # 100 Days Of Code - logs
 
+### Day 48: May 12, 2022
+    
+**Today's Progress:** MongoDB logic operators.
+
 ### Day 47: May 11, 2022
     
 **Today's Progress:** Working with Azure Firewalls and user defined routes. Azure web application firewall. Introduction to Azure information protection and security monitoring tools. Introduction to Azure Key Vault.
