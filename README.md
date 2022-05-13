@@ -2,7 +2,9 @@
 
 ### Day 48: May 12, 2022
     
-**Today's Progress:** MongoDB logic operators.
+**Today's Progress:** Azure information protection and security monitoring tools.
+
+**Today's Progress:** Reviewed this morning.
 
 ### Day 47: May 11, 2022
     
